@@ -52,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/config_api_mobile.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="172" selection-start-column="172" selection-end-column="172" />
+              <caret column="184" selection-start-column="184" selection-end-column="184" />
             </state>
           </provider>
         </entry>
@@ -167,12 +167,12 @@
       <workItem from="1595431366714" duration="943000" />
       <workItem from="1595522066346" duration="606000" />
       <workItem from="1595863039561" duration="1072000" />
-      <workItem from="1595964137863" duration="443000" />
+      <workItem from="1595964137863" duration="1146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10611000" />
+    <option name="totallyTimeSpent" value="11314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1363" extended-state="6" />
@@ -224,7 +224,7 @@
     <entry file="file://$PROJECT_DIR$/config_api_mobile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="172" selection-start-column="172" selection-end-column="172" />
+          <caret column="184" selection-start-column="184" selection-end-column="184" />
         </state>
       </provider>
     </entry>
