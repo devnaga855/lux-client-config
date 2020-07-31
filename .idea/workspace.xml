@@ -15,11 +15,11 @@
     <session id="1447421392">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.0" value="5" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -50,11 +50,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config_api_mobile.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="148" selection-start-column="135" selection-end-column="148" />
+              <caret column="270" selection-start-column="270" selection-end-column="270" />
             </state>
           </provider>
         </entry>
@@ -73,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/version.manifest">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -98,9 +98,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config_api_mobile.html" />
         <option value="$PROJECT_DIR$/project.manifest" />
         <option value="$PROJECT_DIR$/version.manifest" />
+        <option value="$PROJECT_DIR$/config_api_mobile.html" />
       </list>
     </option>
   </component>
@@ -110,7 +110,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="2560" />
     <option name="height" value="1363" />
@@ -169,12 +169,13 @@
       <workItem from="1595431366714" duration="943000" />
       <workItem from="1595522066346" duration="606000" />
       <workItem from="1595863039561" duration="1072000" />
-      <workItem from="1595964137863" duration="3362000" />
+      <workItem from="1595964137863" duration="5925000" />
+      <workItem from="1596230310856" duration="51000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13530000" />
+    <option name="totallyTimeSpent" value="16144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1363" extended-state="6" />
@@ -209,10 +210,10 @@
     <entry file="file://$PROJECT_DIR$/config_api_mobile_test.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/config_api_mobile.html">
+    <entry file="file://$PROJECT_DIR$/version.manifest">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="148" selection-start-column="135" selection-end-column="148" />
+        <state relative-caret-position="15">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -223,10 +224,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/version.manifest">
+    <entry file="file://$PROJECT_DIR$/config_api_mobile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        <state>
+          <caret column="270" selection-start-column="270" selection-end-column="270" />
         </state>
       </provider>
     </entry>
