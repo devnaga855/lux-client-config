@@ -15,11 +15,12 @@
     <session id="1447421392">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="7" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -36,13 +37,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="43" />
+          <entry key="html" value="44" />
           <entry key="manifest" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="43" />
+          <entry key="HTML" value="44" />
           <entry key="PLAIN_TEXT" value="24" />
         </counts>
       </usages-collector>
@@ -110,8 +111,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="286" />
+    <option name="y" value="328" />
     <option name="width" value="1680" />
     <option name="height" value="973" />
   </component>
@@ -120,6 +122,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,7 +134,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,12 +175,13 @@
       <workItem from="1596230310856" duration="673000" />
       <workItem from="1596358668453" duration="1000" />
       <workItem from="1598367919724" duration="598000" />
-      <workItem from="1617849239318" duration="624000" />
+      <workItem from="1617849239318" duration="983000" />
+      <workItem from="1617931651602" duration="217000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17989000" />
+    <option name="totallyTimeSpent" value="18565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="973" extended-state="6" />
