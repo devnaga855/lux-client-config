@@ -15,12 +15,12 @@
     <session id="1447421392">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
-          <entry key="project.open.time.0" value="8" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="9" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -55,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/config_api_mobile.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="63" selection-start-column="63" selection-end-column="63" />
+              <caret column="176" selection-start-column="176" selection-end-column="176" />
             </state>
           </provider>
         </entry>
@@ -68,8 +68,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project.manifest">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="40" />
+            <state relative-caret-position="60">
+              <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -77,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/version.manifest">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+            <state relative-caret-position="60">
+              <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -88,9 +88,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>nagavip.online/m/</find>
+      <find>http://lux888.club/m/</find>
+      <find>http://lux888.club/m</find>
+      <find>lux888.club/m</find>
     </findStrings>
     <replaceStrings>
       <replace>lux39.club/m/</replace>
+      <replace>kimnguyenbao.net/m</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -99,8 +103,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/project.manifest" />
         <option value="$PROJECT_DIR$/version.manifest" />
+        <option value="$PROJECT_DIR$/project.manifest" />
         <option value="$PROJECT_DIR$/config_api_mobile.html" />
       </list>
     </option>
@@ -176,15 +180,16 @@
       <workItem from="1598367919724" duration="598000" />
       <workItem from="1617849239318" duration="983000" />
       <workItem from="1617931651602" duration="1043000" />
-      <workItem from="1618133051967" duration="63000" />
+      <workItem from="1618133051967" duration="662000" />
+      <workItem from="1618307189375" duration="145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19454000" />
+    <option name="totallyTimeSpent" value="20198000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="973" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="973" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16214587" />
@@ -213,27 +218,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config_api_mobile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="63" selection-start-column="63" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config_api_mobile_test.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/project.manifest">
+    <entry file="file://$PROJECT_DIR$/version.manifest">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="40" />
+        <state relative-caret-position="60">
+          <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/version.manifest">
+    <entry file="file://$PROJECT_DIR$/project.manifest">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        <state relative-caret-position="60">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config_api_mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="176" selection-start-column="176" selection-end-column="176" />
         </state>
       </provider>
     </entry>
