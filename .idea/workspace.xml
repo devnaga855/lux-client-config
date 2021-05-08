@@ -15,12 +15,12 @@
     <session id="1447421392">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
-          <entry key="project.open.time.0" value="9" />
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -37,13 +37,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="46" />
+          <entry key="html" value="55" />
           <entry key="manifest" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="46" />
+          <entry key="HTML" value="55" />
           <entry key="PLAIN_TEXT" value="24" />
         </counts>
       </usages-collector>
@@ -55,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/config_api_mobile.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="176" selection-start-column="176" selection-end-column="176" />
+              <caret column="281" selection-start-column="273" selection-end-column="281" />
             </state>
           </provider>
         </entry>
@@ -181,12 +181,14 @@
       <workItem from="1617849239318" duration="983000" />
       <workItem from="1617931651602" duration="1043000" />
       <workItem from="1618133051967" duration="662000" />
-      <workItem from="1618307189375" duration="145000" />
+      <workItem from="1618307189375" duration="583000" />
+      <workItem from="1618503540609" duration="212000" />
+      <workItem from="1619682851743" duration="154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20198000" />
+    <option name="totallyTimeSpent" value="21002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="973" extended-state="0" />
@@ -218,15 +220,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config_api_mobile_test.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/version.manifest">
+    <entry file="file://$PROJECT_DIR$/config_api_mobile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+        <state>
+          <caret column="281" selection-start-column="273" selection-end-column="281" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config_api_mobile_test.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/project.manifest">
       <provider selected="true" editor-type-id="text-editor">
@@ -235,10 +237,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config_api_mobile.html">
+    <entry file="file://$PROJECT_DIR$/version.manifest">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="176" selection-start-column="176" selection-end-column="176" />
+        <state relative-caret-position="60">
+          <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
         </state>
       </provider>
     </entry>
