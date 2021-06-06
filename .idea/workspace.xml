@@ -15,12 +15,12 @@
     <session id="1447421392">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
-          <entry key="project.open.time.0" value="11" />
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="13" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -54,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config_api_mobile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="281" selection-start-column="273" selection-end-column="281" />
+            <state relative-caret-position="60">
+              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -184,11 +184,13 @@
       <workItem from="1618307189375" duration="583000" />
       <workItem from="1618503540609" duration="212000" />
       <workItem from="1619682851743" duration="154000" />
+      <workItem from="1622959747172" duration="387000" />
+      <workItem from="1622995570439" duration="133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21002000" />
+    <option name="totallyTimeSpent" value="21522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="973" extended-state="0" />
@@ -222,8 +224,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config_api_mobile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="281" selection-start-column="273" selection-end-column="281" />
+        <state relative-caret-position="60">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
         </state>
       </provider>
     </entry>
