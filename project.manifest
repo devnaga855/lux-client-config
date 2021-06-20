@@ -1,10 +1,10 @@
 {
-    "packageUrl": "http://kimnguyenbao.net/m/",
+    "packageUrl": "http://portalgame.club/m/",
     "searchPaths": [],
     "assets": {
     },
-    "remoteVersionUrl": "http://kimnguyenbao.net/m/version.manifest",
+    "remoteVersionUrl": "http://portalgame.club/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.16",
-    "remoteManifestUrl": "http://kimnguyenbao.net/m/project.manifest"
+    "remoteManifestUrl": "http://portalgame.club/m/project.manifest"
 }
