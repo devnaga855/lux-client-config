@@ -1,9 +1,9 @@
 {
-    "packageUrl": "http://portalgame.club/m/",
+    "packageUrl": "http://wssloc.club/m/",
     "searchPaths": [],
     "assets": {},
-    "remoteVersionUrl": "http://portalgame.club/m/version.manifest",
+    "remoteVersionUrl": "http://wssloc.club/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.16",
-    "remoteManifestUrl": "http://portalgame.club/m/project.manifest"
+    "remoteManifestUrl": "http://wssloc.club/m/project.manifest"
 }
