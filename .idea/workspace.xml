@@ -37,13 +37,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="73" />
+          <entry key="html" value="74" />
           <entry key="manifest" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="73" />
+          <entry key="HTML" value="74" />
           <entry key="PLAIN_TEXT" value="24" />
         </counts>
       </usages-collector>
@@ -196,12 +196,12 @@
       <workItem from="1624430096751" duration="518000" />
       <workItem from="1624518124911" duration="676000" />
       <workItem from="1624975908129" duration="811000" />
-      <workItem from="1625188688048" duration="6000" />
+      <workItem from="1625188688048" duration="607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25321000" />
+    <option name="totallyTimeSpent" value="25922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="180" y="72" width="1680" height="973" extended-state="0" />
